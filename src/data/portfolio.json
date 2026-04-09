@@ -1,0 +1,289 @@
+{
+  "navigation": {
+    "logo": "M.Abdullah",
+    "socialLinks": [
+      {
+        "name": "email",
+        "icon": "Mail",
+        "href": "#"
+      },
+      {
+        "name": "instagram",
+        "icon": "Camera",
+        "href": "#"
+      },
+      {
+        "name": "linkedin",
+        "icon": "Briefcase",
+        "href": "#"
+      }
+    ],
+    "navLinks": [
+      { "name": "Home", "href": "#home" },
+      { "name": "About", "href": "#about" },
+      { "name": "Services", "href": "#services" },
+      { "name": "Process", "href": "#process" },
+      { "name": "Work", "href": "#work" },
+      { "name": "Testimonials", "href": "#testimonials" },
+      { "name": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "headline": "Designs That Make Your Brand Unforgettable",
+    "subheadline": "Transforming your vision into stunning logos, brand identities and visuals that convert.",
+    "testimonialAvatars": [
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop"
+    ],
+    "trustBadge": {
+      "text": "Trusted by",
+      "count": "20+",
+      "description": "creators and personal brands."
+    },
+    "socialLinks": [
+      {
+        "name": "email",
+        "icon": "Mail",
+        "href": "#"
+      },
+      {
+        "name": "instagram",
+        "icon": "Camera",
+        "href": "#"
+      },
+      {
+        "name": "linkedin",
+        "icon": "Briefcase",
+        "href": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Hi, I'm abdullah",
+    "description": "A Gen Alpha designer focused on simple, clear, and effective visuals. I specialize in creating brand identities and visual solutions that communicate your message with clarity and impact.",
+    "detailedDescription": "From startups to established brands, I've helped 20+ clients transform their vision into captivating designs that drive results. Currently working with Tech Talkss as a Graphic Designer, crafting compelling visual narratives that elevate their brand presence. My approach combines strategic thinking with creative excellence to deliver designs that achieve your business objectives.",
+    "stats": [
+      {
+        "number": "1",
+        "label": "Year"
+      },
+      {
+        "number": "20+",
+        "label": "Clients"
+      },
+      {
+        "number": "100%",
+        "label": "Satisfaction"
+      }
+    ],
+    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=700&fit=crop",
+    "alt": "abdullah - Designer"
+  },
+  "services": [
+    {
+      "icon": "Paintbrush",
+      "title": "Logo Design",
+      "description": "Unique, memorable logos that capture your brand essence and leave a lasting impression."
+    },
+    {
+      "icon": "Image",
+      "title": "Banner Design",
+      "description": "Eye-catching banner designs for websites, social media, and promotional campaigns."
+    },
+    {
+      "icon": "Layers",
+      "title": "Thumbnail Design",
+      "description": "Compelling video thumbnails designed to maximize click-through rates and engagement."
+    },
+    {
+      "icon": "Printer",
+      "title": "Print Design",
+      "description": "Professional print materials including brochures, flyers, posters, and marketing collateral."
+    },
+    {
+      "icon": "Briefcase",
+      "title": "Gig Design",
+      "description": "Customized designs tailored for freelance gigs and specialized project requirements."
+    },
+    {
+      "icon": "Share2",
+      "title": "Social Media Post Design",
+      "description": "Engaging posts, stories, ads, and graphics optimized for all social media platforms."
+    }
+  ],
+  "benefits": [
+    {
+      "icon": "Clock",
+      "title": "Fast Turnaround",
+      "description": "Quick delivery without compromising on quality. Most projects completed within days."
+    },
+    {
+      "icon": "RefreshCw",
+      "title": "Unlimited Revisions",
+      "description": "I work until you're 100% satisfied. Your satisfaction is my priority."
+    },
+    {
+      "icon": "MessageSquare",
+      "title": "Direct Communication",
+      "description": "Work directly with me. No middlemen. Just clear, honest collaboration."
+    },
+    {
+      "icon": "Award",
+      "title": "Premium Quality",
+      "description": "High-resolution files, print-ready formats, with attention to every detail."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Fresh & Modern",
+      "description": "Designs that follow current trends while maintaining timeless appeal."
+    },
+    {
+      "icon": "Heart",
+      "title": "Passion-Driven",
+      "description": "I genuinely care about your success and pour creativity into every project."
+    }
+  ],
+  "process": [
+    {
+      "number": "01",
+      "icon": "MessageCircle",
+      "title": "Discovery",
+      "description": "We discuss your brand, goals, target audience, and design preferences."
+    },
+    {
+      "number": "02",
+      "icon": "Lightbulb",
+      "title": "Concept",
+      "description": "I research, brainstorm, and develop initial design concepts based on your brief."
+    },
+    {
+      "number": "03",
+      "icon": "Link2",
+      "title": "Design & Refine",
+      "description": "We design and refine. You review and provide feedback until it's perfect."
+    },
+    {
+      "number": "04",
+      "icon": "Send",
+      "title": "Delivery",
+      "description": "You receive all final files in multiple formats ready for use."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ghufran Ilias",
+      "role": "Brand Manager",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100",
+      "rating": 5,
+      "text": "I really appreciate abdullah for quality design work. He consistently delivers high-quality designs.",
+      "tag": "Received on Upwork"
+    },
+    {
+      "name": "Anusha Kumari",
+      "role": "Marketing Director",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100",
+      "rating": 5,
+      "text": "I've been impressed with abdullah's design work. The attention to detail and creativity is amazing."
+    },
+    {
+      "name": "Muhammad Azhar",
+      "role": "CEO",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100",
+      "rating": 5,
+      "text": "Amazing designer with great understanding of branding and visuals."
+    },
+    {
+      "name": "Ali Usman",
+      "role": "Content Creator",
+      "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100",
+      "rating": 5,
+      "text": "Fresh and stunning designs every time. Highly recommended!"
+    },
+    {
+      "name": "Emma Davis",
+      "role": "Influencer",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100",
+      "rating": 5,
+      "text": "Outstanding service and creative work. Delivered beyond expectations."
+    },
+    {
+      "name": "Hamza Ahmed",
+      "role": "YouTuber",
+      "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=100",
+      "rating": 5,
+      "text": "Professional, fast, and very creative. Loved working together."
+    }
+  ],
+  "portfolio": [
+    {
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+      "title": "Watch Product Banner",
+      "category": "Product Design"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "title": "Sports Campaign Poster",
+      "category": "Marketing Design"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&h=600&fit=crop",
+      "title": "Restaurant Menu Design",
+      "category": "Print Design"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop",
+      "title": "Tech Brand Identity",
+      "category": "Branding"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1607083206869-4c7672e72a8a?w=800&h=600&fit=crop",
+      "title": "E-commerce Banner",
+      "category": "Digital Design"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1526413232644-8a40f03cc03b?w=800&h=600&fit=crop",
+      "title": "Fashion Campaign",
+      "category": "Creative Design"
+    }
+  ],
+  "footer": {
+    "brand": "M.Abdullah",
+    "description": "A Gen Alpha designer creating unforgettable brand experiences with clean, effective visuals.",
+    "navigation": [
+      { "name": "Home", "href": "#" },
+      { "name": "About", "href": "#" },
+      { "name": "Work", "href": "#" },
+      { "name": "Process", "href": "#" },
+      { "name": "Contact", "href": "#" }
+    ],
+    "services": [
+      { "name": "Logo Design", "href": "#" },
+      { "name": "Banner Design", "href": "#" },
+      { "name": "Thumbnail Design", "href": "#" },
+      { "name": "Print Design", "href": "#" },
+      { "name": "Gig Design", "href": "#" },
+      { "name": "Social Media Post Design", "href": "#" }
+    ],
+    "contact": {
+      "email": "contact@mabdullah.design",
+      "phone": "+1 (555) 123-4567",
+      "socialLinks": [
+        {
+          "name": "instagram",
+          "icon": "Camera",
+          "href": "#"
+        },
+        {
+          "name": "linkedin",
+          "icon": "Briefcase",
+          "href": "#"
+        }
+      ]
+    },
+    "copyright": "© 2026 Mohammed abdullah. All rights reserved."
+  }
+}
